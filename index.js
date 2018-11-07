@@ -1,6 +1,6 @@
 /* Your code goes here */
 var customerName = "bob";
 
-function setBestCustomer() {
+function upperCaseCustomerName() {
   customerName = customerName.toUpperCase();
 }
